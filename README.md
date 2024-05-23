@@ -28,6 +28,8 @@ Whoniverse
 
 tardis icon from https://www.flaticon.com/free-icon/tardis_1601066?related_id=1600893&origin=search
 
+tailwindcss color generator https://tailwind-generator.com/color-palette-generator/generator
+
 ## Steps
 
 ### 1. 选择 API 格式
