@@ -1,0 +1,22 @@
+---
+import { ViewTransitions } from 'astro:transitions';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<meta
+			name="description"
+			content="Dive into the universe of Doctor Who, the iconic British sci-fi series. Discover the history, characters, storylines, and behind-the-scenes of this beloved show."
+		/>
+		<title>Doctor Who</title>
+		<ViewTransitions />
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>

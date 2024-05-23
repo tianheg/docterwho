@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "episode_location": "S1E1",
+    "episode_title": "Rose",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler",
+    "summary": "When ordinary shop-worker Rose Tyler meets a mysterious stranger called the Doctor she is drawn into his strange and dangerous world; her life will never be the same again.",
+    "air_date": "2005-03-26"
+  },
+  {
+    "id": 2,
+    "episode_location": "S1E2",
+    "episode_title": "The End of the World",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler",
+    "summary": "The Doctor takes Rose on her first voyage through time, to the year five billion and the end of planet Earth.",
+    "air_date": "2005-04-02"
+  },
+  {
+    "id": 3,
+    "episode_location": "S1E3",
+    "episode_title": "The Unquiet Dead",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler",
+    "summary": "The Doctor has great expectations for his latest adventure when he and Rose join forces with Charles Dickens to investigate a mysterious plague of zombies.",
+    "air_date": "2005-04-09"
+  },
+  {
+    "id": 4,
+    "episode_location": "S1E4",
+    "episode_title": "Aliens of London",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler",
+    "summary": "The Doctor returns Rose to her own time - well, sort of - but her family reunion is ruined when a spaceship crashes in the middle of London. What is the origin of the spaceship, and where has the Prime Minister gone in this time of crisis?",
+    "air_date": "2005-04-16"
+  },
+  {
+    "id": 5,
+    "episode_location": "S1E5",
+    "episode_title": "World War Three",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler",
+    "summary": "The Slitheen have infiltrated Parliament and have the Doctor and his friends trapped as the Doctor works to prevent them from starting World War Three.",
+    "air_date": "2005-04-23"
+  },
+  {
+    "id": 6,
+    "episode_location": "S1E6",
+    "episode_title": "Dalek",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler, Adam Mitchell",
+    "summary": "The TARDIS is drawn to an alien museum deep below the Utah desert, where a ruthless billionaire keeps prisoner the last of the Doctor's most fearsome enemies.",
+    "air_date": "2005-04-30"
+  },
+  {
+    "id": 7,
+    "episode_location": "S1E7",
+    "episode_title": "The Long Game",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler, Adam Mitchell",
+    "summary": "In the year 200,000 the Doctor discovers that a satellite with a dark secret is controlling humanity and slowing its development.",
+    "air_date": "2005-05-07"
+  },
+  {
+    "id": 8,
+    "episode_location": "S1E8",
+    "episode_title": "Father's Day",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler",
+    "summary": "Rose asks The Doctor to take her to 1987, on the day her father was killed.",
+    "air_date": "2005-05-14"
+  },
+  {
+    "id": 9,
+    "episode_location": "S1E9",
+    "episode_title": "The Empty Child",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler, Jack Harkness",
+    "summary": "When a spaceship crashes in the middle of the London Blitz the Doctor, Rose and the enigmatic Captain Jack Harkness find themselves investigating a plague of physical injuries and a little boy in a gas mask.",
+    "air_date": "2005-05-21"
+  },
+  {
+    "id": 10,
+    "episode_location": "S1E10",
+    "episode_title": "The Doctor Dances",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler, Jack Harkness",
+    "summary": "The gas mask zombies are on the rise as the plague spreads across war-torn London.",
+    "air_date": "2005-05-28"
+  },
+  {
+    "id": 11,
+    "episode_location": "S1E11",
+    "episode_title": "Boom Town",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler, Jack Harkness",
+    "summary": "Stopping off in present-day Cardiff to recharge the TARDIS, The Doctor, Rose and Jack meet up with Mickey and encounter an old foe in the midst of hatching a scheme that could destroy the entire planet.",
+    "air_date": "2005-06-04"
+  },
+  {
+    "id": 12,
+    "episode_location": "S1E12",
+    "episode_title": "Bad Wolf",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler, Jack Harkness",
+    "summary": "The Doctor, Rose and Jack are separated and forced to compete in twisted and deadly games on the Game Station.",
+    "air_date": "2005-06-11"
+  },
+  {
+    "id": 13,
+    "episode_location": "S1E13",
+    "episode_title": "The Parting of the Ways",
+    "doctor_actor": "Christopher Eccleston",
+    "companion": "Rose Tyler, Jack Harkness",
+    "summary": "As the Dalek fleet begin their attack on the Earth, the Doctor and his allies make one final stand.",
+    "air_date": "2005-06-18"
+  },
+  {
+    "id": 14,
+    "episode_location": "S2E0-2005-Christmas",
+    "episode_title": "The Christmas Invasion",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "It's Christmas Eve, but this is to be a far from silent night - the cruel Sycorax have come to Earth to enslave mankind and, as ever, only The Doctor can stop them. Unfortunately, he's lying in a coma in Jackie's home...",
+    "air_date": "2005-12-25"
+  },
+  {
+    "id": 15,
+    "episode_location": "S2E1",
+    "episode_title": "New Earth",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "The Doctor and Rose arrive on New Earth and meet old friends and enemies in a hospital which can cure every disease. But the cures come at a terrible cost.",
+    "air_date": "2006-04-15"
+  },
+  {
+    "id": 16,
+    "episode_location": "S2E2",
+    "episode_title": "Tooth and Claw",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "The Doctor and Rose are transported to 19th Century Scotland, where they meet Queen Victoria, and try to protect her from a ravenous werewolf and a band of assassinating warrior-monks",
+    "air_date": "2006-04-22"
+  },
+  {
+    "id": 17,
+    "episode_location": "S2E3",
+    "episode_title": "School Reunion",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler, Mickey Smith",
+    "summary": "The Krillitanes - aliens with a mix-and-match physiology - are trying to crack the 'God-Maker', a paradigm to give them ultimate power. They are using children as a computer, and only the Doctor and Rose, re-united with Sarah Jane Smith and K9 can prevent them from becoming masters of time and space.",
+    "air_date": "2006-04-29"
+  },
+  {
+    "id": 18,
+    "episode_location": "S2E4",
+    "episode_title": "The Girl in the Fireplace",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler, Mickey Smith",
+    "summary": "The Doctor, Mickey and Rose land on a spaceship in the 51st century only to find 18th century Versailles on board, the time of Madame De Pompadour! To find out what's going on the Doctor must enter Versailles and save Madame De Popmpadour but it turns into an emotional roller coaster for the Doctor.",
+    "air_date": "2006-05-06"
+  },
+  {
+    "id": 19,
+    "episode_location": "S2E5",
+    "episode_title": "Rise of the Cybermen",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "The TARDIS crash lands in London on a parallel world, where Rose's dad is still alive, people are disappearing off the streets and one of the Doctor's deadliest enemies is about to be reborn.",
+    "air_date": "2006-05-13"
+  },
+  {
+    "id": 20,
+    "episode_location": "S2E6",
+    "episode_title": "The Age of Steel",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler, Mickey Smith",
+    "summary": "The Cybermen take control of London as the population is enslaved and the Doctor and his friends become fugitives.",
+    "air_date": "2006-05-20"
+  },
+  {
+    "id": 21,
+    "episode_location": "S2E7",
+    "episode_title": "The Idiot's Lantern",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "As the coronation of Elizabeth II nears, the streets of London live in fear. Faceless people are stolen from their homes in the night and something evil is lurking in the television.",
+    "air_date": "2006-05-27"
+  },
+  {
+    "id": 22,
+    "episode_location": "S2E8",
+    "episode_title": "The Impossible Planet",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "When the Doctor and Rose become stranded on a planet orbiting a black hole, they find a human expedition crew and their servants, the Ood, being terrorised by the Devil.",
+    "air_date": "2006-06-03"
+  },
+  {
+    "id": 23,
+    "episode_location": "S2E9",
+    "episode_title": "The Satan Pit",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "The Doctor risks his life to investigate the pit and is forced to make a terrible decision, while Rose and the crew fend for their lives against the Legion of the Beast.",
+    "air_date": "2006-06-10"
+  },
+  {
+    "id": 24,
+    "episode_location": "S2E10",
+    "episode_title": "Love & Monsters",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "Elton Pope is an ordinary man intrigued by the world of the Doctor. When he and fellow enthusiasts - L.I.N.D.A. - meet the mysterious Victor Kennedy, their lives will never be the same again.",
+    "air_date": "2006-06-17"
+  },
+  {
+    "id": 25,
+    "episode_location": "S2E11",
+    "episode_title": "Fear Her",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "When children vanish into thin air in 2012 London, the Doctor and Rose find the answers in a seemingly ordinary household and a girl whose drawings can come to life.",
+    "air_date": "2006-06-24"
+  },
+  {
+    "id": 26,
+    "episode_location": "S2E12",
+    "episode_title": "Army of Ghosts",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "When ghosts of loved ones appear all over the world the Doctor traces the phenomena to the Torchwood Tower, where some old friends and enemies are waiting.",
+    "air_date": "2006-07-01"
+  },
+  {
+    "id": 27,
+    "episode_location": "S2E13",
+    "episode_title": "Doomsday",
+    "doctor_actor": "David Tennant",
+    "companion": "Rose Tyler",
+    "summary": "Earth becomes a battleground for the Daleks and the Cybermen. With the whole planet at stake and the Genesis Ark activated, how much will the Doctor sacrifice in order to end the war?",
+    "air_date": "2006-07-08"
+  },
+  {
+    "id": 28,
+    "episode_location": "S3E0-2006-Christmas",
+    "episode_title": "The Runaway Bride",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "The Doctor is baffled when a young woman is transported to the TARDIS on her wedding day, and attempts to find out how she is connected to an alien plot to destroy Earth.",
+    "air_date": "2006-12-25"
+  },
+  {
+    "id": 29,
+    "episode_location": "S3E1",
+    "episode_title": "Smith and Jones",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "When medical student Martha Jones meets a mysterious stranger called The Doctor, and finds herself transported to the moon, her life will never be the same again.",
+    "air_date": "2007-03-31"
+  },
+  {
+    "id": 30,
+    "episode_location": "S3E2",
+    "episode_title": "The Shakespeare Code",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "The Doctor takes Martha to London in 1599, where William Shakespeare's new play is being used by three witches in an evil plan.",
+    "air_date": "2007-04-07"
+  },
+  {
+    "id": 31,
+    "episode_location": "S3E3",
+    "episode_title": "Gridlock",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "The Doctor takes Martha to New Earth, where she is kidnapped by two carjackers and taken to an underground Motorway, where the remainder of humanity on the planet live in perpetual gridlock.",
+    "air_date": "2007-04-14"
+  },
+  {
+    "id": 32,
+    "episode_location": "S3E4",
+    "episode_title": "Daleks in Manhattan",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "The Doctor and Martha travel to New York in 1930, where people have been mysteriously vanishing from the streets, and an old enemy resurfaces.",
+    "air_date": "2007-04-21"
+  },
+  {
+    "id": 33,
+    "episode_location": "S3E5",
+    "episode_title": "Evolution of the Daleks",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "Concluding part to Daleks in Manhattan. In 1930s New York, the Daleks' plan is in full force. Faced with the cyborgs' most evil and dangerous scheme yet, will the Doctor and Martha be able to defeat their greatest opponents?",
+    "air_date": "2007-04-28"
+  },
+  {
+    "id": 34,
+    "episode_location": "S3E6",
+    "episode_title": "The Lazarus Experiment",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "The famous Dr Lazarus has appeared to discover the secret of eternal youth - but do his experiments hide a sinister secret?",
+    "air_date": "2007-05-05"
+  },
+  {
+    "id": 35,
+    "episode_location": "S3E7",
+    "episode_title": "42",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "On a spaceship headed straight for the centre of the sun, the Doctor only has 42 minutes to save Martha and the ship's crew from an inevitable doom.",
+    "air_date": "2007-05-19"
+  },
+  {
+    "id": 36,
+    "episode_location": "S3E8",
+    "episode_title": "Human Nature",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "In 1913, Martha watches in jealousy from afar as The Doctor learns what it is to be human and to fall in love with the local school nurse, Joan Redfern.",
+    "air_date": "2007-05-26"
+  },
+  {
+    "id": 37,
+    "episode_location": "S3E9",
+    "episode_title": "The Family of Blood",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "The Doctor must deal with the repercussions of his decision to become human, as The Family Of Blood unveil themselves...",
+    "air_date": "2007-06-02"
+  },
+  {
+    "id": 38,
+    "episode_location": "S3E10",
+    "episode_title": "Blink",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones",
+    "summary": "Sally Sparrow receives a cryptic message from the Doctor about a mysterious new enemy species that is after the TARDIS.",
+    "air_date": "2007-06-09"
+  },
+  {
+    "id": 39,
+    "episode_location": "S3E11",
+    "episode_title": "Utopia",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones, Jack Harkness",
+    "summary": "Soon after bumping into old friend Jack Harkness, Martha and The Doctor head off to Malcassairo, a distant planet where an old professor will do anything he can to keep his people alive...",
+    "air_date": "2007-06-16"
+  },
+  {
+    "id": 40,
+    "episode_location": "S3E12",
+    "episode_title": "The Sound of Drums",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones, Jack Harkness",
+    "summary": "The Doctor, Martha and Jack return to the 21st Century eighteen months after the Doctor and Martha left. They find they've missed the election, and the new Prime Minister, Harold Saxon, is someone they've met before by another name.",
+    "air_date": "2007-06-23"
+  },
+  {
+    "id": 41,
+    "episode_location": "S3E13",
+    "episode_title": "Last of the Time Lords",
+    "doctor_actor": "David Tennant",
+    "companion": "Martha Jones, Jack Harkness",
+    "summary": "It's been a year since The Master unleashed the mysterious Toclafane onto Earth. With the human race and The Doctor enslaved under The Master's control, Martha Jones is the only person that can help stop the evil Time Lord.",
+    "air_date": "2007-06-30"
+  },
+  {
+    "id": 42,
+    "episode_location": "S4E0-2007-Christmas",
+    "episode_title": "Voyage of the Damned",
+    "doctor_actor": "David Tennant",
+    "companion": "Astrid Peth",
+    "summary": "When disaster hits the Titanic, the Doctor uncovers a threat to the whole human race. Battling alongside aliens, saboteurs, robot Angels and a new friend called Astrid, can he stop the Christmas inferno?",
+    "air_date": "2007-12-25"
+  },
+  {
+    "id": 43,
+    "episode_location": "S4E1",
+    "episode_title": "Partners in Crime",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "With a new weight-loss pill tested in London by Adipose Industries, The Doctor goes to investigate the sinister truth behind the product, only to find out that his old friend Donna Noble is investigating as well.",
+    "air_date": "2008-04-05"
+  },
+  {
+    "id": 44,
+    "episode_location": "S4E2",
+    "episode_title": "The Fires of Pompeii",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "Instead of Rome, The Doctor and Donna Noble end up visiting Pompeii in AD 79, on the eve of the catastrophic eruption of Mount Vesuvius. Before anyone even knew it was actually a volcano, the entire city is doomed for destruction.",
+    "air_date": "2008-04-12"
+  },
+  {
+    "id": 45,
+    "episode_location": "S4E3",
+    "episode_title": "Planet of the Ood",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "Finding themselves on the Ood-Sphere planet in the 42nd century, The Doctor and Donna discover the truth over the Ood's willingness to serve humankind.",
+    "air_date": "2008-04-19"
+  },
+  {
+    "id": 46,
+    "episode_location": "S4E4",
+    "episode_title": "The Sontaran Stratagem",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble, Martha Jones",
+    "summary": "UNIT's newest recruit Martha Jones enlists The Doctor's help to investigate kid genius Luke Rattigan and his ATMOS system that is used in every car on Earth.",
+    "air_date": "2008-04-26"
+  },
+  {
+    "id": 47,
+    "episode_location": "S4E5",
+    "episode_title": "The Poison Sky",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble, Martha Jones",
+    "summary": "With planet Earth choking under the poison sky, the Doctor must stop the Sontarans' threat to the planet.",
+    "air_date": "2008-05-03"
+  },
+  {
+    "id": 48,
+    "episode_location": "S4E6",
+    "episode_title": "The Doctor's Daughter",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble, Martha Jones, Jenny",
+    "summary": "Caught in the middle of a war between the Humans and the Hath in the planet Messaline, the Doctor finds himself once again a father.",
+    "air_date": "2008-05-10"
+  },
+  {
+    "id": 49,
+    "episode_location": "S4E7",
+    "episode_title":"The Unicorn and the Wasp",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "With a 1926 dinner party turning into a murder mystery, The Doctor and Donna Noble get the chance to meet Agatha Christie on the eve of her well-known 9-days disappearance.",
+    "air_date": "2008-05-17"
+  },
+  {
+    "id": 50,
+    "episode_location": "S4E8",
+    "episode_title": "Silence in the Library",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "The Doctor and Donna visit a planet-sized library but soon realise that the planet is devoid of life, that is until River Song and her team of archaeologists arrive. As they unravel the library's mystery, something lurks in the shadows.",
+    "air_date": "2008-05-31"
+  },
+  {
+    "id": 51,
+    "episode_location": "S4E9",
+    "episode_title": "Forest of the Dead",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "With the library darkening, the Doctor takes on the Vashta Nerada while figuring out what links River Song to his future. Meanwhile, Donna finds out the mystery of Dr. Moon and the Girl.",
+    "air_date": "2008-06-07"
+  },
+  {
+    "id": 52,
+    "episode_location": "S4E10",
+    "episode_title": "Midnight",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "As part of a well-deserved holiday, the Doctor takes a tour on a planet called Midnight. Little does he know that something is knocking on the walls, although the planet shouldn't be inhabited. Soon the passengers begin to panic when one of them is possessed.",
+    "air_date": "2008-06-14"
+  },
+  {
+    "id": 53,
+    "episode_location": "S4E11",
+    "episode_title": "Turn Left",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble, Tenth Doctor",
+    "summary": "What would happen if Donna never met the Doctor? How would Earth handle the Racnoss, the falling Titanic or the Sontarans? Aided by a familiar blonde time traveler, Donna corrects the alternate time line from happening.",
+    "air_date": "2008-06-21"
+  },
+  {
+    "id": 54,
+    "episode_location": "S4E12",
+    "episode_title": "The Stolen Earth",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble, Rose Tyler, Martha Jones, Jack Harkness, Sarah Jane Smith",
+    "summary": "The return of an old enemy leaves Earth along with 26 other planets stolen from their places. As the Doctor and Donna look for the whereabouts of Earth, former companions of the Doctor assemble a resistance against the new Dalek Empire.",
+    "air_date": "2008-06-28"
+  },
+  {
+    "id": 55,
+    "episode_location": "S4E13",
+    "episode_title": "Journey's End",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble, Rose Tyler, Martha Jones, Jack Harkness, Sarah Jane Smith, Mickey Smith",
+    "summary": "In the wake of Davros' threat to destroy the existence of the Universe itself, the Doctor's companions unite to stop the Dalek empire. Which one will die by the prophecies and what will the fate be for the Doctor?",
+    "air_date": "2008-07-05"
+  },
+  {
+    "id": 56,
+    "episode_location": "S4E14-2008-Christmas",
+    "episode_title": "The Next Doctor",
+    "doctor_actor": "David Tennant",
+    "companion": "'The Next Doctor'(Jackson Lake), Rosita Farisi",
+    "summary": "The Doctor arrives in London on Christmas Eve in 1851 where he encounters the Cybermen and a man who claims he's a Time Lord called the Doctor.",
+    "air_date": "2008-12-25"
+  },
+  {
+    "id": 57,
+    "episode_location": "S4E15",
+    "episode_title": "Planet of the Dead",
+    "doctor_actor": "David Tennant",
+    "companion": "Lady Christina de Souza",
+    "summary": "A meeting in a London bus with jewel thief Lady Christina takes a turn for the worst for the Doctor when the bus takes a detour to a desert-like planet, where the deadly Swarm awaits.",
+    "air_date": "2009-04-11"
+  },
+  {
+    "id": 58,
+    "episode_location": "S4E16",
+    "episode_title": 	"The Waters of Mars",
+    "doctor_actor": "David Tennant",
+    "companion": "Adelaide Brooke",
+    "summary": "In a Mars base the inhabitants are being infected by a mysterious water creature which takes over its victims. The Doctor is thrust into the middle of this catastrophe knowing a larger one is waiting around the corner.",
+    "air_date": "2009-11-15"
+  },
+  {
+    "id": 59,
+    "episode_location": "S4E17-2009-Christmas",
+    "episode_title": "The End of Time – Part One",
+    "doctor_actor": "David Tennant",
+    "companion": "Wilfred Mott",
+    "summary": "The Ood have given a warning to The Doctor. The Master is returning yet that is not the biggest threat. A darkness is coming which brings with it The End of Time.",
+    "air_date": "2009-12-25"
+  },
+  {
+    "id": 60,
+    "episode_location": "S4E18",
+    "episode_title": "The End of Time – Part Two",
+    "doctor_actor": "David Tennant",
+    "companion": "Wilfred Mott",
+    "summary": "The Master has transformed Earth's population into his own image, gaining control over the planet, but is surprised that Donna Noble remains unaffected. The Doctor discovers that the Time Lords are causing the Master's pain as they attempt to return and restore Gallifrey, risking the resumption of the Last Great Time War. To thwart this, the Doctor faces a critical decision. As the Ood's prophecy is fulfilled, he embarks on a final journey in the TARDIS to bid farewell to friends before his impending regeneration.",
+    "air_date": "2010-01-01"
+  }
+]

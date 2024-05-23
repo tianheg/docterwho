@@ -1,0 +1,18 @@
+---
+import Layout from './_layout.astro';
+import Pagination from '../components/Pagination.jsx';
+import Tardis from '../components/tardis.astro';
+---
+
+<Layout>
+  <main>
+    <h1 class="text-3xl text-center font-bold underline">Doctor Who</h1>
+    <div class="container">
+      <Tardis />
+    </div>
+
+    <div class="container mx-auto p-4">
+      <Pagination client:load />
+    </div>
+  </main>
+</Layout>
