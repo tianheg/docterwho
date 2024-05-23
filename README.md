@@ -52,3 +52,11 @@ tailwindcss color generator https://tailwind-generator.com/color-palette-generat
 还需要加上圣诞特辑、50周年、60周年庆
 
 summary from https://www.imdb.com/title/tt0436992/episodes/
+
+---
+
+Other data:
+
+- https://shermansplanet.com/gallifreyan/
+- https://rossjrw.com/gallifreyo/
+- https://github.com/rossjrw/gallifreyo
