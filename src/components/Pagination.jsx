@@ -7,6 +7,9 @@ const seasonRanges = {
 	season3: { start: 28, end: 41 },
 	season4: { start: 42, end: 60 },
 	season5: { start: 61, end: 73 },
+	season6: { start: 74, end: 87 },
+	season7: { start: 88, end: 104 },
+	season8: { start: 105, end: 116 },
 	// Add more seasons as needed
 };
 function getSeasonData(season) {
@@ -36,13 +39,22 @@ export default function Pagination() {
 					value={currentSeason}
 					onChange={(e) => changeSeason(e.target.value)}
 				>
-					{/* List all seasons available */}
+					{/* Start list of seasons available */}
 					<option value="season1">Season 1</option>
 					<option value="season2">Season 2</option>
 					<option value="season3">Season 3</option>
 					<option value="season4">Season 4</option>
 					<option value="season5">Season 5</option>
-					{/* Add more options as needed */}
+					<option value="season6">Season 6</option>
+					<option value="season7">Season 7</option>
+					<option value="season8">Season 8</option>
+					<option value="season9">Season 9</option>
+					<option value="season10">Season 10</option>
+					<option value="season11">Season 11</option>
+					<option value="season12">Season 12</option>
+					<option value="season13">Season 13</option>
+					<option value="season14">Season 14</option>
+					{/* End list of seasons available */}
 				</select>
 			</div>
 
