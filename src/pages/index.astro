@@ -1,18 +1,100 @@
 ---
+import { Image } from 'astro:assets';
 import Layout from './_layout.astro';
+import heroImage from '../assets/img/Versions_of_the_Doctor.jpg';
 import Pagination from '../components/Pagination.jsx';
 import Tardis from '../components/tardis.astro';
 ---
 
 <Layout>
-  <main>
-    <h1 class="text-3xl text-center font-bold underline">Doctor Who</h1>
-    <div class="container">
+  <header>
+    <div class="bg-white border-b border-gray-100">
+      <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+        <div class="flex items-center justify-between h-16 lg:h-[72px]">
+          <div class="flex items-center flex-shrink-0 ml-4 lg:ml-0">
+            <a
+              href="#"
+              title=""
+              class="inline-flex rounded focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
+            >
+              <span class="sr-only">Doctor Who</span>
+              <img class="w-auto h-8" src="/header.png" alt="Doctor Who" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <section class="hero pt-12 pb-12 sm:pb-16 lg:pt-8">
+    <div class="hero-content px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
+      <div
+        class="grid max-w-lg grid-cols-1 mx-auto lg:max-w-full lg:items-center lg:grid-cols-2 gap-y-12 lg:gap-x-16"
+      >
+        <div class="text-center lg:text-left">
+          <h1
+            class="text-4xl rotate-50 font-bold leading-tight text-gray-900 sm:text-5xl sm:leading-tight lg:leading-tight lg:text-6xl font-pj text-balance"
+          >
+            Welcome to the World of <span
+              class="underline decoration-wavy decoration-purple-500 animate-pulse"
+              >Doctor Who</span
+            >
+          </h1>
+          <p class="mt-2 text-lg text-gray-600 sm:mt-8 font-inter">
+            Exploring the <span class="underline">Time-Traveling</span> Adventures
+            of the Doctor
+          </p>
+        </div>
+
+        <div>
+          <Image
+            class="w-full rounded-lg"
+            src={heroImage}
+            alt="Img from Wikipedia"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="text-center pt-12 pb-12 sm:pb-16 lg:pt-8">
+    <div class="my-96">
       <Tardis />
     </div>
+    <h2 class="text-7xl text-center font-bold text-gray-900">The TARDIS!</h2>
+    <p class="mt-4 text-2xl text-gray-600">
+      Time And Relative Dimension In Space
+    </p>
+  </section>
 
-    <div class="container mx-auto p-4">
-      <Pagination client:load />
+  <section>
+
+  </section>
+
+  <!-- <footer>
+    <div class="container mx-auto px-4 py-12 bg-deepurple-500">
+      <div class="flex flex-wrap justify-center">
+        <div class="w-full md:w-1/2 text-center md:text-left">
+          <p class="text-sm text-gray-600">
+            &copy; 2023 Doctor Who. All rights reserved.
+          </p>
+        </div>
+        <div class="w-full md:w-1/2 text-center md:text-right">
+          <a
+            href="#"
+            class="text-sm font-semibold text-gray-600 hover:text-gray-900"
+          >
+            Terms & Conditions
+          </a>
+          <span class="px-4"> | </span>
+          <a
+            href="#"
+            class="text-sm font-semibold text-gray-600 hover:text-gray-900"
+          >
+            Privacy Policy
+          </a>
+        </div>
+      </div>
     </div>
-  </main>
+    
+  </footer> -->
 </Layout>
