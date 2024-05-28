@@ -30,6 +30,7 @@ tardis icon from https://www.flaticon.com/free-icon/tardis_1601066?related_id=16
 
 tailwindcss color generator https://tailwind-generator.com/color-palette-generator/generator
 
+
 ## Steps
 
 ### 1. 选择 API 格式
@@ -49,7 +50,7 @@ tailwindcss color generator https://tailwind-generator.com/color-palette-generat
 
 `air_date` 指在 UK 本土首映的时间
 
-还需要加上圣诞特辑、50周年、60周年庆
+还需要加上圣诞特辑、50周年、60周年庆，目前是合并到各个季了，以后有空再拆出来。
 
 summary from https://www.imdb.com/title/tt0436992/episodes/
 
@@ -60,3 +61,8 @@ Other data:
 - https://shermansplanet.com/gallifreyan/
 - https://rossjrw.com/gallifreyo/
 - https://github.com/rossjrw/gallifreyo
+
+
+可参考UI设计：
+
+https://www.metacritic.com/tv/doctor-who/season-7/
