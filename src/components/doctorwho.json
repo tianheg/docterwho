@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "episode_location": "S2E0-2005-Christmas",
+    "episode_location": "2005-Christmas",
     "episode_title": "The Christmas Invasion",
     "doctor_actor": "David Tennant",
     "companion": "Rose Tyler",
@@ -244,7 +244,7 @@
   },
   {
     "id": 28,
-    "episode_location": "S3E0-2006-Christmas",
+    "episode_location": "2006-Christmas",
     "episode_title": "The Runaway Bride",
     "doctor_actor": "David Tennant",
     "companion": "Donna Noble",
@@ -370,7 +370,7 @@
   },
   {
     "id": 42,
-    "episode_location": "S4E0-2007-Christmas",
+    "episode_location": "2007-Christmas",
     "episode_title": "Voyage of the Damned",
     "doctor_actor": "David Tennant",
     "companion": "Astrid Peth",
@@ -434,7 +434,7 @@
   {
     "id": 49,
     "episode_location": "S4E7",
-    "episode_title":"The Unicorn and the Wasp",
+    "episode_title": "The Unicorn and the Wasp",
     "doctor_actor": "David Tennant",
     "companion": "Donna Noble",
     "summary": "With a 1926 dinner party turning into a murder mystery, The Doctor and Donna Noble get the chance to meet Agatha Christie on the eve of her well-known 9-days disappearance.",
@@ -496,7 +496,7 @@
   },
   {
     "id": 56,
-    "episode_location": "S4E14-2008-Christmas",
+    "episode_location": "2008-Christmas",
     "episode_title": "The Next Doctor",
     "doctor_actor": "David Tennant",
     "companion": "'The Next Doctor'(Jackson Lake), Rosita Farisi",
@@ -515,7 +515,7 @@
   {
     "id": 58,
     "episode_location": "S4E16",
-    "episode_title": 	"The Waters of Mars",
+    "episode_title": "The Waters of Mars",
     "doctor_actor": "David Tennant",
     "companion": "Adelaide Brooke",
     "summary": "In a Mars base the inhabitants are being infected by a mysterious water creature which takes over its victims. The Doctor is thrust into the middle of this catastrophe knowing a larger one is waiting around the corner.",
@@ -523,7 +523,7 @@
   },
   {
     "id": 59,
-    "episode_location": "S4E17-2009-Christmas",
+    "episode_location": "2009-Christmas",
     "episode_title": "The End of Time – Part One",
     "doctor_actor": "David Tennant",
     "companion": "Wilfred Mott",
@@ -538,5 +538,518 @@
     "companion": "Wilfred Mott",
     "summary": "The Master has transformed Earth's population into his own image, gaining control over the planet, but is surprised that Donna Noble remains unaffected. The Doctor discovers that the Time Lords are causing the Master's pain as they attempt to return and restore Gallifrey, risking the resumption of the Last Great Time War. To thwart this, the Doctor faces a critical decision. As the Ood's prophecy is fulfilled, he embarks on a final journey in the TARDIS to bid farewell to friends before his impending regeneration.",
     "air_date": "2010-01-01"
+  },
+  {
+    "id": 61,
+    "episode_location": "S5E1",
+    "episode_title": "The Eleventh Hour",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond",
+    "summary": "",
+    "air_date": "2010-04-03"
+  },
+  {
+    "id": 62,
+    "episode_location": "S5E2",
+    "episode_title": "The Beast Below",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond",
+    "summary": "",
+    "air_date": "2010-04-10"
+  },
+  {
+    "id": 63,
+    "episode_location": "S5E3",
+    "episode_title": "Victory of the Daleks",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond",
+    "summary": "",
+    "air_date": "2010-04-17"
+  },
+  {
+    "id": 64,
+    "episode_location": "S5E4",
+    "episode_title": "The Time of Angels",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond",
+    "summary": "",
+    "air_date": "2010-04-24"
+  },
+  {
+    "id": 65,
+    "episode_location": "S5E5",
+    "episode_title": "Flesh and Stone",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond",
+    "summary": "",
+    "air_date": "2010-05-01"
+  },
+  {
+    "id": 66,
+    "episode_location": "S5E6",
+    "episode_title": "The Vampires of Venice",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2010-05-08"
+  },
+  {
+    "id": 67,
+    "episode_location": "S5E7",
+    "episode_title": "Amy's Choice",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2010-05-15"
+  },
+  {
+    "id": 68,
+    "episode_location": "S5E8",
+    "episode_title": "The Hungry Earth",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2010-05-22"
+  },
+  {
+    "id": 69,
+    "episode_location": "S5E9",
+    "episode_title": "Cold Blood",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2010-05-29"
+  },
+  {
+    "id": 70,
+    "episode_location": "S5E10",
+    "episode_title": "Vincent and the Doctor",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond",
+    "summary": "",
+    "air_date": "2010-06-05"
+  },
+  {
+    "id": 71,
+    "episode_location": "S5E11",
+    "episode_title": "The Lodger",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond",
+    "summary": "",
+    "air_date": "2010-06-12"
+  },
+  {
+    "id": 72,
+    "episode_location": "S5E12",
+    "episode_title": "The Pandorica Opens",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2010-06-19"
+  },
+  {
+    "id": 73,
+    "episode_location": "S5E13",
+    "episode_title": "The Big Bang",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2010-04-03"
+  },
+  {
+    "id": 74,
+    "episode_location": "2010-Christmas",
+    "episode_title": "A Christmas Carol",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2010-12-25"
+  },
+  {
+    "id": 75,
+    "episode_location": "S6E1",
+    "episode_title": "The Impossible Astronaut",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams, River Song",
+    "summary": "",
+    "air_date": "2011-04-23"
+  },
+  {
+    "id": 76,
+    "episode_location": "S6E2",
+    "episode_title": "Day of the Moon",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams, River Song",
+    "summary": "",
+    "air_date": "2011-04-30"
+  },
+  {
+    "id": 77,
+    "episode_location": "S6E3",
+    "episode_title": "The Curse of the Black Spot",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2011-05-07"
+  },
+  {
+    "id": 78,
+    "episode_location": "S6E4",
+    "episode_title": "The Doctor's Wife",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2011-05-14"
+  },
+  {
+    "id": 79,
+    "episode_location": "S6E5",
+    "episode_title": "The Rebel Flesh",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2011-05-21"
+  },
+  {
+    "id": 80,
+    "episode_location": "S6E6",
+    "episode_title": "The Almost People",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2011-05-28"
+  },
+  {
+    "id": 81,
+    "episode_location": "S6E7",
+    "episode_title": "A Good Man Goes to War",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams, River Song",
+    "summary": "",
+    "air_date": "2011-06-04"
+  },
+  {
+    "id": 82,
+    "episode_location": "S6E8",
+    "episode_title": "Let's Kill Hitler",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams, River Song",
+    "summary": "",
+    "air_date": "2011-08-27"
+  },
+  {
+    "id": 83,
+    "episode_location": "S6E9",
+    "episode_title": "Night Terrors",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2011-09-03"
+  },
+  {
+    "id": 84,
+    "episode_location": "S6E10",
+    "episode_title": "The Girl Who Waited",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2011-09-10"
+  },
+  {
+    "id": 85,
+    "episode_location": "S6E11",
+    "episode_title": "The God Complex",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2011-09-17"
+  },
+  {
+    "id": 86,
+    "episode_location": "S6E12",
+    "episode_title": "Closing Time",
+    "doctor_actor": "Matt Smith",
+    "companion": "Craig Owens",
+    "summary": "",
+    "air_date": "2011-09-24"
+  },
+  {
+    "id": 87,
+    "episode_location": "S6E13",
+    "episode_title": "The Wedding of River Song",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams, River Song",
+    "summary": "",
+    "air_date": "2011-10-01"
+  },
+  {
+    "id": 88,
+    "episode_location": "2011-Christmas",
+    "episode_title": "The Doctor, the Widow and the Wardrobe",
+    "doctor_actor": "Matt Smith",
+    "companion": "Madge Arwell, Cyril Arwell, Lily Arwell",
+    "summary": "",
+    "air_date": "2011-12-25"
+  },
+  {
+    "id": 89,
+    "episode_location": "S7E1",
+    "episode_title": "Asylum of the Daleks",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2012-09-01"
+  },
+  {
+    "id": 90,
+    "episode_location": "S7E2",
+    "episode_title": "Dinosaurs on a Spaceship",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2012-09-08"
+  },
+  {
+    "id": 91,
+    "episode_location": "S7E3",
+    "episode_title": "A Town Called Mercy",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2012-09-15"
+  },
+  {
+    "id": 92,
+    "episode_location": "S7E4",
+    "episode_title": "The Power of Three",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2012-09-22"
+  },
+  {
+    "id": 93,
+    "episode_location": "S7E5",
+    "episode_title": "The Angels Take Manhattan",
+    "doctor_actor": "Matt Smith",
+    "companion": "Amy Pond, Rory Williams",
+    "summary": "",
+    "air_date": "2012-09-29"
+  },
+  {
+    "id": 94,
+    "episode_location": "2012-Christmas",
+    "episode_title": "The Snowmen",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswin Oswald",
+    "summary": "",
+    "air_date": "2012-12-25"
+  },
+  {
+    "id": 95,
+    "episode_location": "S7E7",
+    "episode_title": "The Bells of Saint John",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-03-30"
+  },
+  {
+    "id": 96,
+    "episode_location": "S7E8",
+    "episode_title": "The Rings of Akhaten",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-04-06"
+  },
+  {
+    "id": 97,
+    "episode_location": "S7E9",
+    "episode_title": "Cold War",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-04-13"
+  },
+  {
+    "id": 98,
+    "episode_location": "S7E10",
+    "episode_title": "Hide",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-04-20"
+  },
+  {
+    "id": 99,
+    "episode_location": "S7E11",
+    "episode_title": "Journey to the Centre of the TARDIS",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-04-27"
+  },
+  {
+    "id": 100,
+    "episode_location": "S7E12",
+    "episode_title": "The Crimson Horror",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-05-04"
+  },
+  {
+    "id": 101,
+    "episode_location": "S7E13",
+    "episode_title": "Nightmare in Silver",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-05-11"
+  },
+  {
+    "id": 102,
+    "episode_location": "S7E14",
+    "episode_title": "The Name of the Doctor",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-05-18"
+  },
+  {
+    "id": 103,
+    "episode_location": "S7E15",
+    "episode_title": "The Day of the Doctor",
+    "doctor_actor": "Matt Smith, David Tennant, John Hurt",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-11-23"
+  },
+  {
+    "id": 104,
+    "episode_location": "2013-Christmas",
+    "episode_title": "The Time of the Doctor",
+    "doctor_actor": "Matt Smith",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2013-12-25"
+  },
+  {
+    "id": 105,
+    "episode_location": "S8E1",
+    "episode_title": "Deep Breath",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-08-23"
+  },
+  {
+    "id": 106,
+    "episode_location": "S8E2",
+    "episode_title": "Into the Dalek",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-08-30"
+  },
+  {
+    "id": 107,
+    "episode_location": "S8E3",
+    "episode_title": "Robot of Sherwood",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-09-06"
+  },
+  {
+    "id": 108,
+    "episode_location": "S8E4",
+    "episode_title": "Listen",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-09-13"
+  },
+  {
+    "id": 109,
+    "episode_location": "S8E5",
+    "episode_title": "Time Heist",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-09-20"
+  },
+  {
+    "id": 110,
+    "episode_location": "S8E6",
+    "episode_title": "The Caretaker",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-09-27"
+  },
+  {
+    "id": 111,
+    "episode_location": "S8E7",
+    "episode_title": "Kill the Moon",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-10-04"
+  },
+  {
+    "id": 112,
+    "episode_location": "S8E8",
+    "episode_title": "Mummy on the Orient Express",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-10-11"
+  },
+  {
+    "id": 113,
+    "episode_location": "S8E9",
+    "episode_title": "Flatline",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-10-18"
+  },
+  {
+    "id": 114,
+    "episode_location": "S8E10",
+    "episode_title": "In the Forest of the Night",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-10-25"
+  },
+  {
+    "id": 115,
+    "episode_location": "S8E11",
+    "episode_title": "Dark Water",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-11-01"
+  },
+  {
+    "id": 116,
+    "episode_location": "S8E12",
+    "episode_title": "Death in Heaven",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-11-08"
+  },
+  {
+    "id": 117,
+    "episode_location": "2014-Christmas",
+    "episode_title": "Last Christmas",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "",
+    "air_date": "2014-12-25"
   }
 ]
