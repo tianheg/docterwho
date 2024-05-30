@@ -10,11 +10,19 @@ export function getStaticPaths() {
     1: { start: 1, end: 13 },
     2: { start: 14, end: 27 },
     3: { start: 28, end: 41 },
-    4: { start: 42, end: 60 },
+    4: { start: 42, end: 55 },
+    '08-10': { start: 56, end: 60 },
     5: { start: 61, end: 73 },
     6: { start: 74, end: 87 },
     7: { start: 88, end: 104 },
     8: { start: 105, end: 116 },
+    9: { start: 117, end: 130 },
+    10: { start: 131, end: 144 },
+    11: { start: 145, end: 155 },
+    12: { start: 156, end: 166 },
+    13: { start: 167, end: 175 },
+    23: { start: 176, end: 178 },
+    14: { start: 179, end: 187 },
   };
 
   return Object.keys(seasonRanges).map((index) => {
@@ -48,7 +56,11 @@ const { episodes } = Astro.props;
   <section class="py-10 bg-white sm:py-16 lg:py-24">
     <header class="">
       <h1 class="text-center mb-32 text-4xl font-bold">
-        Season {Astro.params.season}
+        {
+          Astro.params.season === '23' || Astro.params.season === '08-10'
+            ? `20${Astro.params.season} Specials`
+            : `Season ${Astro.params.season}`
+        }
       </h1>
     </header>
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
@@ -111,13 +123,22 @@ const { episodes } = Astro.props;
         ></label>
         <ul class="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
           {
-            [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+            [1, 2, 3, 4, '08-10', 5, 6, 7, 8, 9, 10, 11, 12, 13, 23, 14]
               .filter((elem) => elem !== Number(Astro.params.season))
-              .map((subElem) => (
-                <li>
-                  <a href={`/seasons/${subElem}`}>Season {subElem}</a>
-                </li>
-              ))
+              .map((subElem) => {
+                if (subElem == '08-10' || subElem == '23') {
+                  return (
+                    <li>
+                      <a href={`/seasons/${subElem}`}>20{subElem} Specials</a>
+                    </li>
+                  );
+                }
+                return (
+                  <li>
+                    <a href={`/seasons/${subElem}`}>Season {subElem}</a>
+                  </li>
+                );
+              })
           }
         </ul>
       </div>

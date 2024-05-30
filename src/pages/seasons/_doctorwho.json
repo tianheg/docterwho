@@ -505,7 +505,7 @@
   },
   {
     "id": 57,
-    "episode_location": "S4E15",
+    "episode_location": "2009-special",
     "episode_title": "Planet of the Dead",
     "doctor_actor": "David Tennant",
     "companion": "Lady Christina de Souza",
@@ -514,7 +514,7 @@
   },
   {
     "id": 58,
-    "episode_location": "S4E16",
+    "episode_location": "2009-special",
     "episode_title": "The Waters of Mars",
     "doctor_actor": "David Tennant",
     "companion": "Adelaide Brooke",
@@ -532,7 +532,7 @@
   },
   {
     "id": 60,
-    "episode_location": "S4E18",
+    "episode_location": "2010-special",
     "episode_title": "The End of Time – Part Two",
     "doctor_actor": "David Tennant",
     "companion": "Wilfred Mott",
@@ -545,7 +545,7 @@
     "episode_title": "The Eleventh Hour",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond",
-    "summary": "",
+    "summary": "With his TARDIS in ruins, the newly-regenerated Doctor with the help of Amy Pond must save the world in less than twenty minutes from galactic policemen known as the Atraxi.",
     "air_date": "2010-04-03"
   },
   {
@@ -554,7 +554,7 @@
     "episode_title": "The Beast Below",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond",
-    "summary": "",
+    "summary": "The Doctor takes Amy to the future inside Starship UK, which contains in addition to British explorers, an intimidating race known as the Smilers.",
     "air_date": "2010-04-10"
   },
   {
@@ -563,7 +563,7 @@
     "episode_title": "Victory of the Daleks",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond",
-    "summary": "",
+    "summary": "The TARDIS takes The Doctor and Amy to war-torn Britain in the middle of World War Two. Not only do they meet Winston Churchill himself, but the Doctor comes face to face once again with his greatest enemy of all.",
     "air_date": "2010-04-17"
   },
   {
@@ -572,7 +572,7 @@
     "episode_title": "The Time of Angels",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond",
-    "summary": "",
+    "summary": "The Doctor and Amy emerge from the TARDIS to find the wreck of the Byzantium spaceship. Down below the Weeping Angels are stirring, but the Doctor has someone else to contend with; none other than the mysterious Professor River Song.",
     "air_date": "2010-04-24"
   },
   {
@@ -581,7 +581,7 @@
     "episode_title": "Flesh and Stone",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond",
-    "summary": "",
+    "summary": "The Doctor, Amy, Dr. Song and the remaining soldiers manage to escape from the crashed ship and into the forest. The Angels attempt to create a rift in time and space such as the Doctor had found in Amy's room when they first met. Amy meanwhile is counting down from 10 minutes and the Doctor has determined that an Angel has taken over her mind.",
     "air_date": "2010-05-01"
   },
   {
@@ -590,7 +590,7 @@
     "episode_title": "The Vampires of Venice",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "The Doctor and Amy cross swords in more ways than one with a horde of blood-sucking vampires in 16th century Venice.",
     "air_date": "2010-05-08"
   },
   {
@@ -599,7 +599,7 @@
     "episode_title": "Amy's Choice",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "Five years after finally leaving the TARDIS, Amy and Rory, now married, live in the quiet little village of Leadworth; but everything is not what it would seem.",
     "air_date": "2010-05-15"
   },
   {
@@ -608,7 +608,7 @@
     "episode_title": "The Hungry Earth",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "When a drill drills too deep into the earth, something that had been hibernating beneath the earth's crust is woken, and it's hungry for revenge.",
     "air_date": "2010-05-22"
   },
   {
@@ -617,7 +617,7 @@
     "episode_title": "Cold Blood",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "The Silurians are awake, angry, and preparing for war - a war that could decide who gets to live on Earth, the Silurians or the humans.",
     "air_date": "2010-05-29"
   },
   {
@@ -626,7 +626,7 @@
     "episode_title": "Vincent and the Doctor",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond",
-    "summary": "",
+    "summary": "The Doctor and Amy travel back in time to meet Vincent Van Gogh and face an invisible monster that only the painter can see.",
     "air_date": "2010-06-05"
   },
   {
@@ -635,7 +635,7 @@
     "episode_title": "The Lodger",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond",
-    "summary": "",
+    "summary": "After the TARDIS teleports without him, the doctor tries to find out what is stopping it from landing and traces it to a seemingly ordinary, two storey house.",
     "air_date": "2010-06-12"
   },
   {
@@ -644,7 +644,7 @@
     "episode_title": "The Pandorica Opens",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "River Song returns to deliver The Doctor a serious warning from his allies: the mythical Pandorica, said to contain the most feared creature in the entire Universe, is opening.",
     "air_date": "2010-06-19"
   },
   {
@@ -653,7 +653,7 @@
     "episode_title": "The Big Bang",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "The Pandorica opened, silence fell, and now planet Earth is left alone in the universe. Jumping through time, the doctor must figure out a way to bring back those who never were and save his friends from the collapse of reality.",
     "air_date": "2010-04-03"
   },
   {
@@ -662,7 +662,7 @@
     "episode_title": "A Christmas Carol",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "Festive edition of the time-travelling drama. The Doctor has one hour to save a crashing spaceship and a miser's soul - but what lurks in the fog?",
     "air_date": "2010-12-25"
   },
   {
@@ -671,7 +671,7 @@
     "episode_title": "The Impossible Astronaut",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams, River Song",
-    "summary": "",
+    "summary": "The Doctor, Amy, Rory and River Song are reunited in the Utah desert.",
     "air_date": "2011-04-23"
   },
   {
@@ -680,7 +680,7 @@
     "episode_title": "Day of the Moon",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams, River Song",
-    "summary": "",
+    "summary": "The Doctor and his allies mount a rebellion against invaders who have been controlling humanity from the very beginning.",
     "air_date": "2011-04-30"
   },
   {
@@ -689,7 +689,7 @@
     "episode_title": "The Curse of the Black Spot",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "The Doctor, Amy and Rory find themselves aboard a marooned pirate ship whose crew is being picked off one by one by a beautiful - and deadly - Siren.",
     "air_date": "2011-05-07"
   },
   {
@@ -698,7 +698,7 @@
     "episode_title": "The Doctor's Wife",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "The Doctor is lured to a sentient asteroid outside of the Universe by a Time Lord distress signal and soon realises his TARDIS is in grave danger.",
     "air_date": "2011-05-14"
   },
   {
@@ -707,7 +707,7 @@
     "episode_title": "The Rebel Flesh",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "A solar tsunami sends the TARDIS crew to an acid mining factory in the 22nd century, where a small team of workers come under attack from their doppelgangers.",
     "air_date": "2011-05-21"
   },
   {
@@ -716,7 +716,7 @@
     "episode_title": "The Almost People",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "The gangers and humans battle for their lives as the factory crumbles and the Doctor tries to keep the peace - can everyone make it off the island alive?",
     "air_date": "2011-05-28"
   },
   {
@@ -725,7 +725,7 @@
     "episode_title": "A Good Man Goes to War",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams, River Song",
-    "summary": "",
+    "summary": "A member of The Doctor's team has been abducted and he will call in every favor and maybe even go to war to get them back.",
     "air_date": "2011-06-04"
   },
   {
@@ -734,7 +734,7 @@
     "episode_title": "Let's Kill Hitler",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams, River Song",
-    "summary": "",
+    "summary": "The search for Melody Pond brings the Doctor and his friends to Berlin in 1938, face-to-face with Adolf Hitler, River Song and a justice-serving, shapeshifting robot.",
     "air_date": "2011-08-27"
   },
   {
@@ -743,7 +743,7 @@
     "episode_title": "Night Terrors",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "Receiving a powerful distress call from a terrified little boy, the Doctor and his friends soon find that the monsters in his cupboard are real - and deadly.",
     "air_date": "2011-09-03"
   },
   {
@@ -752,7 +752,7 @@
     "episode_title": "The Girl Who Waited",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "Amy is trapped in a quarantine facility where time moves faster than in reality, while the Doctor is confined to the TARDIS. Can Rory save his wife in time?",
     "air_date": "2011-09-10"
   },
   {
@@ -761,7 +761,7 @@
     "episode_title": "The God Complex",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "The Doctor, Amy and Rory become trapped in a hotel of horrors unable to escape and unable to find the TARDIS. The Doctor must save as many people as he can taking many twists and seeing his own worst fear.",
     "air_date": "2011-09-17"
   },
   {
@@ -770,7 +770,7 @@
     "episode_title": "Closing Time",
     "doctor_actor": "Matt Smith",
     "companion": "Craig Owens",
-    "summary": "",
+    "summary": "The Doctor makes one last stop before his death to see an old friend. But people are disappearing, there are reports of a silver rat and metal men are lurking in the shadows.",
     "air_date": "2011-09-24"
   },
   {
@@ -779,7 +779,7 @@
     "episode_title": "The Wedding of River Song",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams, River Song",
-    "summary": "",
+    "summary": "April 22nd, 2011; 5:02pm. Having finally accepted his fate the Doctor travels to Lake Silencio for his final day. But one woman refuses to let time take its course.",
     "air_date": "2011-10-01"
   },
   {
@@ -788,7 +788,7 @@
     "episode_title": "The Doctor, the Widow and the Wardrobe",
     "doctor_actor": "Matt Smith",
     "companion": "Madge Arwell, Cyril Arwell, Lily Arwell",
-    "summary": "",
+    "summary": "On Christmas Eve 1941, the Doctor poses as a caretaker to give recently widowed Madge Arwell and her two children an unforgettable Christmas but things quickly get out of hand when her son Cyril enters a snowy forest world full of dangers.",
     "air_date": "2011-12-25"
   },
   {
@@ -797,7 +797,7 @@
     "episode_title": "Asylum of the Daleks",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "Amy, Rory and the Doctor are reunited when they are kidnapped by the Daleks, who send them on a mission to destroy the most horrifying place in the universe- the asylum of the Daleks.",
     "air_date": "2012-09-01"
   },
   {
@@ -806,7 +806,7 @@
     "episode_title": "Dinosaurs on a Spaceship",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "The doctor gathers some of his old friends to help him investigate an unmanned spaceship on a crash course to earth that when it collides, will destroy it, they soon discover the ship's precious and dangerous cargo- dinosaurs.",
     "air_date": "2012-09-08"
   },
   {
@@ -815,7 +815,7 @@
     "episode_title": "A Town Called Mercy",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "The Doctor gets a Stetson (and a gun), and finds himself the reluctant Sheriff of a Western town under siege by a relentless cyborg who goes by the name of The Gunslinger. But who is he and what does he want?",
     "air_date": "2012-09-15"
   },
   {
@@ -824,7 +824,7 @@
     "episode_title": "The Power of Three",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "Earth is suddenly visited by millions of small black cubes of unknown origin. The Doctor joins Amy, Rory and Rory's father, Brian, to help discover what these cubes bring for humanity.",
     "air_date": "2012-09-22"
   },
   {
@@ -833,7 +833,7 @@
     "episode_title": "The Angels Take Manhattan",
     "doctor_actor": "Matt Smith",
     "companion": "Amy Pond, Rory Williams",
-    "summary": "",
+    "summary": "After Rory has an encounter with a weeping angel, the doctor and Amy travel to 1930's New York to save him, but they soon discover that the weeping angels have taken over Manhattan, and soon, maybe, the world.",
     "air_date": "2012-09-29"
   },
   {
@@ -842,88 +842,88 @@
     "episode_title": "The Snowmen",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswin Oswald",
-    "summary": "",
+    "summary": "London, 1892. Snow is evolving, turning into icy monstrosities, but this is no concern for the Doctor who has given up trying to save the universe, leaving it to a clever young governess named Clara to save the day.",
     "air_date": "2012-12-25"
   },
   {
     "id": 95,
-    "episode_location": "S7E7",
+    "episode_location": "S7E6",
     "episode_title": "The Bells of Saint John",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The doctor finds Clara in present day, where they work together to solve the mystery of people disappearing which as it turns out, has a sinister link to WiFi.",
     "air_date": "2013-03-30"
   },
   {
     "id": 96,
-    "episode_location": "S7E8",
+    "episode_location": "S7E7",
     "episode_title": "The Rings of Akhaten",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The doctor takes Clara to the rings of Akhaten, A partly destroyed planet, where a religious ceremony is about to be carried out, but a darkness is stirring, a hungry darkness that could consume the rings of Akhaten and the universe.",
     "air_date": "2013-04-06"
   },
   {
     "id": 97,
-    "episode_location": "S7E9",
+    "episode_location": "S7E8",
     "episode_title": "Cold War",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The Doctor and Clara find themselves on a Russian submarine that is falling to the bottom of the ocean because of an attack by a rogue Martian warrior that's still on board.",
     "air_date": "2013-04-13"
   },
   {
     "id": 98,
-    "episode_location": "S7E10",
+    "episode_location": "S7E9",
     "episode_title": "Hide",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The Doctor and Clara arrive at a supposedly haunted mansion where they find a ghost hunter and a psychic who are on the search for a legendary ghost known as 'the witch of the well'",
     "air_date": "2013-04-20"
   },
   {
     "id": 99,
-    "episode_location": "S7E11",
+    "episode_location": "S7E10",
     "episode_title": "Journey to the Centre of the TARDIS",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "After the TARDIS is caught accidentally by an outer space trash collector, Clara is trapped deep inside of it where she finds herself on a journey through the doctor's past and her future.",
     "air_date": "2013-04-27"
   },
   {
     "id": 100,
-    "episode_location": "S7E12",
+    "episode_location": "S7E11",
     "episode_title": "The Crimson Horror",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "When they find a picture of the Doctor in a recently dead man's eye, it's up to Madame Vastra, Jenny and Strax to save The Doctor and find out what sinister secrets are going on at Sweetsville, Yorkshire.",
     "air_date": "2013-05-04"
   },
   {
     "id": 101,
-    "episode_location": "S7E13",
+    "episode_location": "S7E12",
     "episode_title": "Nightmare in Silver",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The Doctor takes Clara and the children she babysits to a rundown amusement park in space where Cybermen are hiding, and ready to invade the most precious place in the universe, The Doctor's mind.",
     "air_date": "2013-05-11"
   },
   {
     "id": 102,
-    "episode_location": "S7E14",
+    "episode_location": "S7E13",
     "episode_title": "The Name of the Doctor",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The Doctor's friends are being kidnapped, which leads him to the fields of Trenzalore, where his greatest secret will be revealed and Clara's mystery will be solved.",
     "air_date": "2013-05-18"
   },
   {
     "id": 103,
-    "episode_location": "S7E15",
+    "episode_location": "2013-special",
     "episode_title": "The Day of the Doctor",
     "doctor_actor": "Matt Smith, David Tennant, John Hurt",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion.",
     "air_date": "2013-11-23"
   },
   {
@@ -932,7 +932,7 @@
     "episode_title": "The Time of the Doctor",
     "doctor_actor": "Matt Smith",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The Doctor's worst enemies, The Daleks, The Cybermen, The Angels and The Silence, return, as the doctor's eleventh life comes to a close, and his twelfth life begins.",
     "air_date": "2013-12-25"
   },
   {
@@ -941,7 +941,7 @@
     "episode_title": "Deep Breath",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "When the newly-regenerated doctor arrives in Victorian London, he finds a dinosaur rampant in the Thames and a spate of deadly spontaneous combustions.",
     "air_date": "2014-08-23"
   },
   {
@@ -950,7 +950,7 @@
     "episode_title": "Into the Dalek",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The Doctor's greatest enemy surrounds a rebel ship. To save everyone, he and Clara must choose to venture into the most dangerous place in the universe. The Doctor is forced to examine his conscience and ask if he is a good man.",
     "air_date": "2014-08-30"
   },
   {
@@ -959,7 +959,7 @@
     "episode_title": "Robot of Sherwood",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "In Sherwood Forest, the Doctor uncovers a sinister alien plot and forms an alliance with Robin Hood. With Nottingham at stake, the Doctor must decide who is real and who is fake.",
     "air_date": "2014-09-06"
   },
   {
@@ -968,7 +968,7 @@
     "episode_title": "Listen",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "When ghosts of past and future crowd into their lives, The Doctor and Clara are thrown into an adventure that takes them to the very end of the universe.",
     "air_date": "2014-09-13"
   },
   {
@@ -977,7 +977,7 @@
     "episode_title": "Time Heist",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The Doctor and Clara wake up in a room with two other people, unable to remember how they got there. As it turns out Someone known as the Architect has employed them to Break into the Universe's most secure bank.",
     "air_date": "2014-09-20"
   },
   {
@@ -986,7 +986,7 @@
     "episode_title": "The Caretaker",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The terrifying Skovox Blitzer is ready to destroy all humanity - but worse, and any second now, Danny Pink and the Doctor are going to meet.",
     "air_date": "2014-09-27"
   },
   {
@@ -995,7 +995,7 @@
     "episode_title": "Kill the Moon",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "In the near future, the Doctor and Clara find themselves on a space shuttle making a suicide mission to the Moon. Crash-landing on the lunar surface they find the most terrible things.",
     "air_date": "2014-10-04"
   },
   {
@@ -1004,7 +1004,7 @@
     "episode_title": "Mummy on the Orient Express",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "On the most beautiful train in history, speeding amongst the stars of the future, a deadly and immortal creature is stalking the passengers.",
     "air_date": "2014-10-11"
   },
   {
@@ -1013,7 +1013,7 @@
     "episode_title": "Flatline",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "A problem happens with the Tardis, trapping the Doctor inside and leaving Clara to fend for herself against a two dimensional enemy.",
     "air_date": "2014-10-18"
   },
   {
@@ -1022,7 +1022,7 @@
     "episode_title": "In the Forest of the Night",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "One morning in London, and every city and town in the world, the human race wakes up to the most surprising invasion yet: the trees have moved back in. Everywhere, in every land, a forest has grown and taken back the Earth.",
     "air_date": "2014-10-25"
   },
   {
@@ -1031,7 +1031,7 @@
     "episode_title": "Dark Water",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "In the mysterious world of the Nethersphere, plans have been drawn. Old friends and old enemies manoeuvre around the Doctor, and an impossible choice is looming over him.",
     "air_date": "2014-11-01"
   },
   {
@@ -1040,7 +1040,7 @@
     "episode_title": "Death in Heaven",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "With Cybermen on the streets of London, old friends unite against old enemies and the Doctor takes to the air in a startling new role. As the Doctor faces his greatest challenge, sacrifices must be made before the day is won.",
     "air_date": "2014-11-08"
   },
   {
@@ -1049,7 +1049,646 @@
     "episode_title": "Last Christmas",
     "doctor_actor": "Peter Capaldi",
     "companion": "Clara Oswald",
-    "summary": "",
+    "summary": "The Doctor and Clara face their Last Christmas. Trapped on an Arctic base, under attack from terrifying creatures, who are you going to call? Santa Claus!",
     "air_date": "2014-12-25"
+  },
+  {
+    "id": 118,
+    "episode_location": "S9E1",
+    "episode_title": "The Magician's Apprentice",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "When the skies of Earth are frozen by a mysterious alien force, Clara needs her friend, the Doctor. But where is he and what is he hiding from?",
+    "air_date": "2015-09-19"
+  },
+  {
+    "id": 119,
+    "episode_location": "S9E2",
+    "episode_title": "The Witch's Familiar",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "Trapped and alone in a terrifying Dalek city, the Doctor is at the heart of an evil Empire; no sonic, no TARDIS, nobody to help. With his greatest temptation before him, can the Doctor resist? And will there be mercy?",
+    "air_date": "2015-09-26"
+  },
+  {
+    "id": 120,
+    "episode_location": "S9E3",
+    "episode_title": "Under the Lake",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "The Doctor and Clara find themselves on a underwater station where the crew live in fear of deadly ghosts which have taken over the station.",
+    "air_date": "2015-10-03"
+  },
+  {
+    "id": 121,
+    "episode_location": "S9E4",
+    "episode_title": "Before the Flood",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "In a town that never was, the Doctor and his friends are being stalked by a mysterious figure. With the past and future in the balance, can the Doctor stop the evil Fisher King? And more importantly, who composed Beethoven's 5th.",
+    "air_date": "2015-10-10"
+  },
+  {
+    "id": 122,
+    "episode_location": "S9E5",
+    "episode_title": "The Girl Who Died",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "In a Viking village, a girl named Ashildr is about to make a desperate mistake. The Mire are the deadliest mercenaries in the galaxy, famed for showing no mercy and Ashildr has just declared war on them. The Doctor and Clara have 12 hours to turn a peaceful village into strong fighters, ready for the deadly Mire.",
+    "air_date": "2015-10-17"
+  },
+  {
+    "id": 123,
+    "episode_location": "S9E6",
+    "episode_title": "The Woman Who Lived",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "England, 1651. A deadly highwayman known only as 'The Knightmare' plagues the dark streets of London, his fire-breathing accomplice by his side. There's something clearly more than human here, and that includes the loot as much as the outlaws. Who are these creatures, and are they enemies to be fought, or friends who might possibly save the Doctor from certain doom on the gallows?",
+    "air_date": "2015-10-24"
+  },
+  {
+    "id": 124,
+    "episode_location": "S9E7",
+    "episode_title": "The Zygon Invasion",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "Zygons, a shape-shifting alien race, and humans live in peace together on earth, but a group of rogue zygons threaten the peace between humans and zygons.",
+    "air_date": "2015-10-31"
+  },
+  {
+    "id": 125,
+    "episode_location": "S9E8",
+    "episode_title": "The Zygon Inversion",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "With the Zygons invading England, and UNIT neutralized, the Doctor stands alone to stop the Zygons from taking over the entire planet. But how can he stop the Zygons? And how can he save his friends?",
+    "air_date": "2015-11-07"
+  },
+  {
+    "id": 126,
+    "episode_location": "S9E9",
+    "episode_title": "Sleep No More",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "Vision recovered from the wreckage of Le Verrier Space Station shows how the Doctor and Clara became entangled in a rescue mission. As the footage plays out, a horrifying secret is uncovered.",
+    "air_date": "2015-11-14"
+  },
+  {
+    "id": 127,
+    "episode_location": "S9E10",
+    "episode_title": "Face the Raven",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "The Doctor and Clara are called back to Earth when Rigsy discovers a strange tattoo on the back of his neck that appears to be counting down to zero. Their investigation leads them to a hidden street in the middle of London, the discovery that Rigsy has been issued a death sentence, and one of them facing the choice of having to make the ultimate sacrifice; to face the Raven!",
+    "air_date": "2015-11-21"
+  },
+  {
+    "id": 128,
+    "episode_location": "S9E11",
+    "episode_title": "Heaven Sent",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "No one",
+    "summary": "Trapped in a world unlike any other he has seen, the Doctor faces the greatest challenge of his many lives. One final test. And he must face it alone...",
+    "air_date": "2015-11-28"
+  },
+  {
+    "id": 129,
+    "episode_location": "S9E12",
+    "episode_title": "Hell Bent",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Clara Oswald",
+    "summary": "Escaping his confession dial, the Doctor finds himself back home on Gallifrey and confronts those who have conspired against him. However, the Time Lords are unprepared for the lengths the Doctor will go to in order to save his friend.",
+    "air_date": "2015-12-05"
+  },
+  {
+    "id": 130,
+    "episode_location": "2015-Christmas",
+    "episode_title": "The Husbands of River Song",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "River Song",
+    "summary": "When a crashed spaceship calls upon the Doctor for help, he finds himself recruited into River Song's squad and hurled into a chase across the galaxy.",
+    "air_date": "2015-12-25"
+  },
+  {
+    "id": 131,
+    "episode_location": "2016-Christmas",
+    "episode_title": "The Return of Doctor Mysterio",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Nardole",
+    "summary": "One fateful night in New York City, the Doctor inadvertently causes a young boy to gain superpowers. Returning years later on the trail of the shady Harmony Shoal Institute, he finds the boy all grown up as masked superhero The Ghost.",
+    "air_date": "2016-12-25"
+  },
+  {
+    "id": 132,
+    "episode_location": "S10E1",
+    "episode_title": "The Pilot",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "The Doctor and Nardole team up with a university student to take down a sinister life-mimicking alien.",
+    "air_date": "2017-04-15"
+  },
+  {
+    "id": 133,
+    "episode_location": "S10E2",
+    "episode_title": "Smile",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "The Doctor brings Bill to a future human colony, where cute EmojiBots work as willing servants and make sure everybody's happy, but if they're not happy ,they're harvested, so Bill and The Doctor better smile, or else.    ",
+    "air_date": "2017-04-22"
+  },
+  {
+    "id": 134,
+    "episode_location": "S10E3",
+    "episode_title": "Thin Ice",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "The Doctor and Bill visit London during the last of the River Thames frost fairs in February 1814. They soon discover that there is something under the ice which is causing people to disappear.",
+    "air_date": "2017-04-29"
+  },
+  {
+    "id": 135,
+    "episode_location": "S10E4",
+    "episode_title": "Knock Knock",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "Bill is moving in with some friends and they've found the perfect house rented by the landlord. The wind blows, the floorboards creak and the Doctor thinks something is very wrong.",
+    "air_date": "2017-05-06"
+  },
+  {
+    "id": 136,
+    "episode_location": "S10E5",
+    "episode_title": "Oxygen",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "When the Doctor, Bill and Nardole become trapped on a space station without oxygen, they discover the spacesuits are trying to kill them.",
+    "air_date": "2017-05-13"
+  },
+  {
+    "id": 137,
+    "episode_location": "S10E6",
+    "episode_title": "Extremis",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "The Doctor is called by the Vatican to solve the mystery of a text called the Veritas, that when someone reads it dies soon after. But something is dwelling in the Vatican, and doesn't want the Veritas to be read.",
+    "air_date": "2017-05-20"
+  },
+  {
+    "id": 138,
+    "episode_location": "S10E7",
+    "episode_title": "The Pyramid at the End of the World",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "A 5,000-year-old pyramid appears overnight, baffling everyone including the Doctor.",
+    "air_date": "2017-05-27"
+  },
+  {
+    "id": 139,
+    "episode_location": "S10E8",
+    "episode_title": "The Lie of the Land",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "Earth is invaded and Bill is living alone in occupied Britain. The Doctor appears to be on the side of the enemy, flooding the airwaves with fake news. Bill and Nardole embark on a deadly mission to rescue the Doctor and lead the resistance against the new regime, whatever the cost.",
+    "air_date": "2017-06-03"
+  },
+  {
+    "id": 140,
+    "episode_location": "S10E9",
+    "episode_title": "Empress of Mars",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "The Doctor, Bill and Nardole discover a tomb of the Queen of the Ice Warriors on Mars in 1881.",
+    "air_date": "2017-06-10"
+  },
+  {
+    "id": 141,
+    "episode_location": "S10E10",
+    "episode_title": "The Eaters of Light",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "A long time ago, the Roman legion of the ninth vanished into the mists of Scotland. Bill has a theory about what happened, and the Doctor has a time machine. But when they arrive in ancient Aberdeenshire, what they find is a far greater threat than any army. In a cairn, on a hillside, is a doorway leading to the end of the world.",
+    "air_date": "2017-06-17"
+  },
+  {
+    "id": 142,
+    "episode_location": "S10E11",
+    "episode_title": "World Enough and Time",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "Trapped on a giant spaceship, caught in the event horizon of a black hole, he witnesses the death of someone he is pledged to protect. Are events already out of control?",
+    "air_date": "2017-06-24"
+  },
+  {
+    "id": 143,
+    "episode_location": "S10E12",
+    "episode_title": "The Doctor Falls",
+    "doctor_actor": "Peter Capaldi",
+    "companion": "Bill Potts, Nardole",
+    "summary": "The Doctor makes a final stand against an army of Cybermen to protect a tiny band of humans from destruction.",
+    "air_date": "2017-07-01"
+  },
+  {
+    "id": 144,
+    "episode_location": "2017-Christmas",
+    "episode_title": "Twice Upon a Time",
+    "doctor_actor": "Peter Capaldi, David Bradley",
+    "companion": "Bill Potts",
+    "summary": "The Twelfth Doctor, still refusing to change, goes on a last adventure with the First Doctor.",
+    "air_date": "2017-12-25"
+  },
+  {
+    "id": 145,
+    "episode_location": "S11E1",
+    "episode_title": "The Woman Who Fell to Earth",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "In a South Yorkshire city, Ryan Sinclair, Yasmin Khan and Graham O'Brien are about to have their lives changed forever, as a mysterious woman, unable to remember her own name, falls from the night sky.",
+    "air_date": "2018-10-07"
+  },
+  {
+    "id": 146,
+    "episode_location": "S11E2",
+    "episode_title": "The Ghost Monument",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "Still reeling from their first encounter, can the Doctor and her new friends stay alive long enough, in a hostile alien environment, to solve the mystery of Desolation? And just who are Angstrom and Epzo?",
+    "air_date": "2018-10-14"
+  },
+  {
+    "id": 147,
+    "episode_location": "S11E3",
+    "episode_title": "Rosa",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "Montgomery, Alabama, 1955. The Doctor and her friends find themselves in the Deep South of America. As they encounter a seamstress by the name of Rosa Parks, they begin to wonder whether someone is attempting to change history.",
+    "air_date": "2018-10-21"
+  },
+  {
+    "id": 148,
+    "episode_location": "S11E4",
+    "episode_title": "Arachnids in the UK",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "The Doctor, Yaz, Graham, and Ryan find their way back to Yorkshire only to find something is stirring amidst the eight-legged arachnid population of Sheffield.",
+    "air_date": "2018-10-28"
+  },
+  {
+    "id": 149,
+    "episode_location": "S11E5",
+    "episode_title": "The Tsuranga Conundrum",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "Injured and stranded in the wilds of a far-flung galaxy, The Doctor, Yaz, Graham, and Ryan must band together with a group of strangers to survive against one of the universe's most deadly - and unusual - creatures.",
+    "air_date": "2018-11-04"
+  },
+  {
+    "id": 150,
+    "episode_location": "S11E6",
+    "episode_title": "Demons of the Punjab",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "Yasmin travels in time to visit her grandmother during her youth in the partition of India, but everyone gets caught up in the tragic bloodshed of that era.",
+    "air_date": "2018-11-11"
+  },
+  {
+    "id": 151,
+    "episode_location": "S11E7",
+    "episode_title": "Kerblam!",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "A mysterious message arrives in a package addressed to the Doctor, leading her, Graham, Yaz and Ryan to investigate the warehouse moon orbiting Kandoka, and the home of the galaxy's largest retailer.",
+    "air_date": "2018-11-18"
+  },
+  {
+    "id": 152,
+    "episode_location": "S11E8",
+    "episode_title": "The Witchfinders",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "Arriving in 17th Century Lancashire, the TARDIS team become embroiled in a witch trial. With the arrival of King James I, the hunt for witches intensifies. However, could something more dangerous be at play? Can the Doctor, Graham, Yaz and Ryan keep the populace of Bilehurst Cragg safe from the forces surrounding the land?",
+    "air_date": "2018-11-25"
+  },
+  {
+    "id": 153,
+    "episode_location": "S11E9",
+    "episode_title": "It Takes You Away",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "On the edge of a Norwegian fjord, in the present day, The Doctor, Ryan, Graham and Yaz discover a boarded-up cottage and a girl named Hanne in need of their help. What has happened here? What monster lurks in the woods around the cottage - and beyond?",
+    "air_date": "2018-12-02"
+  },
+  {
+    "id": 154,
+    "episode_location": "S11E10",
+    "episode_title": "The Battle of Ranskoor Av Kolos",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "Answering nine separate distress calls, the Doctor and team arrive on the remnants of a brutal battlefield on the planet Ranskoor Av Kolos. This planet has many secrets. An amnesiac commander? Mysterious mists? Who or what are the Ux? A deadly reckoning awaits the Doctor and team once they have the answers....",
+    "air_date": "2018-12-09"
+  },
+  {
+    "id": 155,
+    "episode_location": "2019-special",
+    "episode_title": "Resolution",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "As the New Year begins, a terrifying evil is stirring from across the centuries of Earth's history. As the Doctor, Ryan, Graham and Yaz return home, will they be able to overcome the threat to planet Earth?",
+    "air_date": "2019-01-01"
+  },
+  {
+    "id": 156,
+    "episode_location": "S12E1",
+    "episode_title": "Spyfall, Part 1",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "When intelligence agents around the world come under attack from alien forces, MI6 turns to the only person who can help... The Doctor.",
+    "air_date": "2020-01-01"
+  },
+  {
+    "id": 157,
+    "episode_location": "S12E2",
+    "episode_title": "Spyfall, Part 2",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "A terrifying plan to destroy humanity is about to reach fruition. Can the Doctor and her friends escape multiple traps and defeat a deadly alliance?",
+    "air_date": "2020-01-05"
+  },
+  {
+    "id": 158,
+    "episode_location": "S12E3",
+    "episode_title": "Orphan 55",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "Having decided that everyone could do with a holiday, Graham accidentally teleports himself, Doctor, Yasmin, and Ryan to a luxury resort for a spot of relaxation. However, they discover the place where they are having a break is hiding several deadly secrets. What are the ferocious monsters that are attacking Tranquility Spa?",
+    "air_date": "2020-01-12"
+  },
+  {
+    "id": 159,
+    "episode_location": "S12E4",
+    "episode_title": "Nikola Tesla's Night of Terror",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "The time: the earliest years of the 20th century. The place: New York City. Inventor Nikola Tesla is at war with his rival Thomas Edison. However, there's an even greater threat in their midst.",
+    "air_date": "2020-01-19"
+  },
+  {
+    "id": 160,
+    "episode_location": "S12E5",
+    "episode_title": "Fugitive of the Judoon",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "Stomping their way into present-day Gloucester, the Judoon are on the hunt for someone on the run. Who is this fugitive? And why are these alien mercenaries after them?",
+    "air_date": "2020-01-26"
+  },
+  {
+    "id": 161,
+    "episode_location": "S12E6",
+    "episode_title": "Praxeus",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "The Doctor and her friends split up to investigate multiple mysteries across planet Earth. What they find will threaten all of humanity.",
+    "air_date": "2020-02-02"
+  },
+  {
+    "id": 162,
+    "episode_location": "S12E7",
+    "episode_title": "Can You Hear Me?",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "From ancient Syria to present day Sheffield, and out into the wilds of space, something is stalking the Doctor and infecting people's nightmares.",
+    "air_date": "2020-02-09"
+  },
+  {
+    "id": 163,
+    "episode_location": "S12E8",
+    "episode_title": "The Haunting of Villa Diodati",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "Villa Diodati, 1816 - on a night that inspired Mary Shelley's Frankenstein. The plan was to spend the evening in the presence of literary greats - but the ghosts are all too real. And the Doctor is forced into an earth-shattering decision.",
+    "air_date": "2020-02-16"
+  },
+  {
+    "id": 164,
+    "episode_location": "S12E9",
+    "episode_title": "Ascension of the Cybermen",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "In the far future, the Doctor and her friends face a brutal battle across the farthest reaches of space to protect the last of the human race against the deadly Cybermen.",
+    "air_date": "2020-02-23"
+  },
+  {
+    "id": 165,
+    "episode_location": "S12E10",
+    "episode_title": "The Timeless Children",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan",
+    "summary": "In the epic and emotional season finale, the Cybermen are on the march. As the last remaining humans are ruthlessly hunted down, Graham, Ryan and Yaz face a terrifying fight to survive. Civilisations fall. Others rise anew. Lies are exposed, truths are revealed, battles are fought, and for the Doctor - trapped and alone - nothing will ever be the same again.",
+    "air_date": "2020-03-01"
+  },
+  {
+    "id": 166,
+    "episode_location": "2021-special",
+    "episode_title": "Revolution of the Daleks",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Graham O'Brien, Ryan Sinclair, Yasmin Khan, Jack Harkness",
+    "summary": "Robertson returns, and inadvertently gives the mutant Dalek a chance to clone itself. The Doctor escapes from her alien prison with the help of an old friend, and returns to help.",
+    "air_date": "2021-01-01"
+  },
+  {
+    "id": 167,
+    "episode_location": "S13E1",
+    "episode_title": "The Halloween Apocalypse",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Yasmin Khan, Dan Lewis",
+    "summary": "At Halloween, all across the universe, terrifying forces are stirring. From the Arctic Circle to deep space, an ancient evil is breaking free. And in present day Liverpool, the life of Dan Lewis is about to change forever.",
+    "air_date": "2021-10-31"
+  },
+  {
+    "id": 168,
+    "episode_location": "S13E2",
+    "episode_title": "War of the Sontarans",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Yasmin Khan, Dan Lewis",
+    "summary": "During the Crimean War, the Doctor discovers the British army fighting a brutal alien army of Sontarans, as Yaz and Dan are thrown deeper into a battle for survival. What is the Temple of Atropos? Who are the Mouri?",
+    "air_date": "2021-11-07"
+  },
+  {
+    "id": 169,
+    "episode_location": "S13E3",
+    "episode_title": "Once, Upon Time",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Yasmin Khan, Dan Lewis",
+    "summary": "Time is beginning to run wild. On a planet that shouldn't exist, in the aftermath of apocalypse, the Doctor, Dan, Yaz, and Vinder face a battle to survive.",
+    "air_date": "2021-11-14"
+  },
+  {
+    "id": 170,
+    "episode_location": "S13E4",
+    "episode_title": "Village of the Angels",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Yasmin Khan, Dan Lewis",
+    "summary": "Devon, November 1967. A little girl has gone missing, Prof Jericho is conducting psychic experiments and in the graveyard there is one gravestone too many. Why is Medderton known as The Cursed Village and what do the Weeping Angels want?",
+    "air_date": "2021-11-21"
+  },
+  {
+    "id": 171,
+    "episode_location": "S13E5",
+    "episode_title": "Survivors of the Flux",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Yasmin Khan, Dan Lewis",
+    "summary": "As the forces of evil mass, the Doctor, Yaz and Dan face perilous journeys and seemingly insurmountable obstacles in their quest for survival.",
+    "air_date": "2021-11-28"
+  },
+  {
+    "id": 172,
+    "episode_location": "S13E6",
+    "episode_title": "The Vanquishers",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Yasmin Khan, Dan Lewis",
+    "summary": "In the final epic chapter in the story of the Flux, all hope is lost. The forces of darkness are in control. But when the monsters have won, who can you count upon to save the universe?",
+    "air_date": "2021-12-05"
+  },
+  {
+    "id": 173,
+    "episode_location": "2022-special",
+    "episode_title": "Eve of the Daleks",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Yasmin Khan, Dan Lewis",
+    "summary": "Sarah owns and runs ELF storage, and Nick is a customer who visits his unit every year on New Year's Eve. This year, however, their night turns out to be a little different than planned.",
+    "air_date": "2022-01-01"
+  },
+  {
+    "id": 174,
+    "episode_location": "2022-special",
+    "episode_title": "Legend of the Sea Devils",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Yasmin Khan, Dan Lewis",
+    "summary": "The Doctor, Yaz and Dan travel to 19th century China, where a small coastal village is under threat from both the fearsome pirate queen Madame Ching and a monstrous force which she unwittingly unleashes.",
+    "air_date": "2022-04-17"
+  },
+  {
+    "id": 175,
+    "episode_location": "2022-special",
+    "episode_title": "The Power of the Doctor",
+    "doctor_actor": "Jodie Whittaker",
+    "companion": "Yasmin Khan, Dan Lewis, Ace, Tegan Jovanka",
+    "summary": "The Master brings the Daleks and Cybermen together to wipe the Doctor and Earth from existence.",
+    "air_date": "2022-10-23"
+  },
+  {
+    "id": 176,
+    "episode_location": "2023-special",
+    "episode_title": "The Star Beast",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "The Doctor is caught in a fight to the death as a spaceship crash-lands in London. But as the battle wreaks havoc, destiny is converging on the Doctor's old friend, Donna.",
+    "air_date": "2023-11-25"
+  },
+  {
+    "id": 177,
+    "episode_location": "2023-special",
+    "episode_title": "Wild Blue Yonder",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "The TARDIS takes the Doctor and Donna to the furthest edge of adventure. To escape, they must face the most desperate fight of their lives, with the fate of the universe at stake.",
+    "air_date": "2023-12-02"
+  },
+  {
+    "id": 178,
+    "episode_location": "2023-special",
+    "episode_title": "The Giggle",
+    "doctor_actor": "David Tennant",
+    "companion": "Donna Noble",
+    "summary": "The giggle of a mysterious puppet is driving the human race insane. When the Doctor discovers the return of the terrifying Toymaker, he faces a fight he can never win.",
+    "air_date": "2023-12-09"
+  },
+  {
+    "id": 179,
+    "episode_location": "2023-Christmas",
+    "episode_title": "The Church on Ruby Road",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "Long ago on Christmas Eve, a baby was abandoned in the snow. Today, Ruby Sunday meets the Doctor, stolen babies, goblins and perhaps the secret of her birth.",
+    "air_date": "2023-12-25"
+  },
+  {
+    "id": 180,
+    "episode_location": "S14E1",
+    "episode_title": "Space Babies",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "Ruby learns the Doctor's amazing secrets when he takes her to the far future. There, they find a baby farm run by babies. But can they be saved from the terrifying bogeyman?",
+    "air_date": "2024-05-11"
+  },
+  {
+    "id": 181,
+    "episode_location": "S14E2",
+    "episode_title": "The Devil's Chord",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "The Doctor and Ruby meet The Beatles but discover that the all-powerful Maestro is changing history. London becomes a battleground with the future of humanity at stake.",
+    "air_date": "2024-05-11"
+  },
+  {
+    "id": 182,
+    "episode_location": "S14E3",
+    "episode_title": "Boom",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "Caught in the middle of a devastating war on Kastarion 3, the Doctor is trapped when he steps on a landmine. Can he save himself and Ruby, plus the entire planet - without moving?",
+    "air_date": "2024-05-18"
+  },
+  {
+    "id": 183,
+    "episode_location": "S14E4",
+    "episode_title": "73 Yards",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "Landing on the Welsh coast, the Doctor and Ruby embark on the strangest journey of their lives. In a rain-lashed pub, the locals sit in fear of ancient legends coming to life.",
+    "air_date": "2024-05-25"
+  },
+  {
+    "id": 184,
+    "episode_location": "S14E5",
+    "episode_title": "Dot and Bubble",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "The world of Finetime seems happy and harmonious. But an awful terror is preying on the citizens. Can the Doctor and Ruby make them see the truth before it's too late?",
+    "air_date": "2024-06-01"
+  },
+  {
+    "id": 185,
+    "episode_location": "S14E6",
+    "episode_title": "Rogue",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "",
+    "air_date": "2024-06-08"
+  },
+  {
+    "id": 186,
+    "episode_location": "S14E7",
+    "episode_title": "The Legend of Ruby Sunday",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "",
+    "air_date": "2024-06-15"
+  },
+  {
+    "id": 187,
+    "episode_location": "S14E8",
+    "episode_title": "Empire of Death",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "",
+    "air_date": "2024-06-22"
+  },
+  {
+    "id": 188,
+    "episode_location": "2024-Christmas",
+    "episode_title": "Joy to the World",
+    "doctor_actor": "Ncuti Gatwa",
+    "companion": "Ruby Sunday",
+    "summary": "",
+    "air_date": "2024-12-25"
   }
 ]
