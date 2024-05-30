@@ -78,9 +78,11 @@ const { episodes } = Astro.props;
                 </p>
                 <p class="text-gray-600">
                   <strong>Location:</strong>{' '}
-                  {episode.location.length == 4
-                    ? episode.location.slice(-2)
-                    : episode.location.slice(-3)}
+                  {episode.location.length > 5
+                    ? episode.location
+                    : episode.location.length == 5
+                      ? episode.location.slice(-3)
+                      : episode.location.slice(-2)}
                 </p>
                 <p class="text-gray-600">
                   <strong>First Air:</strong> {episode.air_date}
@@ -99,9 +101,7 @@ const { episodes } = Astro.props;
     <div class="drawer text-center">
       <input id="my-drawer" type="checkbox" class="drawer-toggle" />
       <div class="drawer-content flex flex-col items-center justify-center">
-        <label
-          for="my-drawer"
-          class="btn btn-outline btn-xs sm:btn-sm md:btn-md lg:btn-lg drawer-button"
+        <label for="my-drawer" class="btn btn-outline drawer-button"
           >Watch other seasons</label
         >
       </div>

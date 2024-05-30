@@ -4,7 +4,7 @@ import Layout from './_layout.astro';
 import Tardis from './tardis.astro';
 
 import heroImage from '../assets/img/the-doctors.jpg';
-import tardisImage from '../assets/img/call-to-action.jpg';
+import ctaImage from '../assets/img/call-to-action.jpg';
 ---
 
 <Layout>
@@ -54,12 +54,12 @@ import tardisImage from '../assets/img/call-to-action.jpg';
     </div>
   </section>
 
-  <section class="hero pt-12 pb-12 sm:pb-16 lg:pt-8">
+  <section class="hero overflow-hidden pt-12 pb-12 sm:pb-16 lg:pt-8">
     <div class="hero-content my-60 lg:mt-40 px-4 max-w-7xl sm:px-6 lg:px-8">
       <div class="relative">
         <Image
           class="rounded-lg w-full h-full object-cover mb-12"
-          src={tardisImage}
+          src={ctaImage}
           alt="Img from https://wallpaperaccess.com/doctor-who-hd"
         />
         <div
