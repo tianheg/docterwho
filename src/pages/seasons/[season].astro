@@ -1,0 +1,125 @@
+---
+import { Image } from 'astro:assets';
+
+import Layout from '../_layout.astro';
+import data from './_doctorwho.json';
+import tardisImage from '../../assets/img/tardis.png';
+
+export function getStaticPaths() {
+  const seasonRanges = {
+    1: { start: 1, end: 13 },
+    2: { start: 14, end: 27 },
+    3: { start: 28, end: 41 },
+    4: { start: 42, end: 60 },
+    5: { start: 61, end: 73 },
+    6: { start: 74, end: 87 },
+    7: { start: 88, end: 104 },
+    8: { start: 105, end: 116 },
+  };
+
+  return Object.keys(seasonRanges).map((index) => {
+    const season = seasonRanges[index as unknown as keyof typeof seasonRanges];
+
+    return {
+      params: { season: index },
+      props: {
+        episodes: data
+          .filter(
+            (episode) => episode.id >= season.start && episode.id <= season.end,
+          )
+          .map((episode) => ({
+            id: episode.id,
+            title: episode.episode_title,
+            actor: episode.doctor_actor,
+            companion: episode.companion,
+            air_date: episode.air_date,
+            description: episode.summary,
+            location: episode.episode_location,
+          })),
+      },
+    };
+  });
+}
+
+const { episodes } = Astro.props;
+---
+
+<Layout>
+  <section class="py-10 bg-white sm:py-16 lg:py-24">
+    <header class="">
+      <h1 class="text-center mb-32 text-4xl font-bold">
+        Season {Astro.params.season}
+      </h1>
+    </header>
+    <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
+      <div
+        class="grid grid-cols-1 gap-16 text-center sm:grid-cols-2 md:grid-cols-3 lg:gap-y-16"
+      >
+        {
+          episodes.map((episode) => (
+            <div>
+              <div class="relative flex  items-center justify-center mx-auto">
+                <Image
+                  src={tardisImage}
+                  class="animate-pulse  border-solid border-8 border-sky-800 w-12 h-12 mask mask-pentagon"
+                  alt="Tardis Icon"
+                />
+              </div>
+
+              <h3 class="mt-8 text-lg font-semibold text-black">
+                {episode.title}
+              </h3>
+              <div class="text-left">
+                <p class="mt-4 text-base text-gray-500 line-clamp-4">
+                  {episode.description}
+                </p>
+                <p class="text-gray-600">
+                  <strong>Companion:</strong> {episode.companion}
+                </p>
+                <p class="text-gray-600">
+                  <strong>Location:</strong>{' '}
+                  {episode.location.length == 4
+                    ? episode.location.slice(-2)
+                    : episode.location.slice(-3)}
+                </p>
+                <p class="text-gray-600">
+                  <strong>First Air:</strong> {episode.air_date}
+                </p>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <section class="py-10 bg-white sm:py-16 lg:py-24">
+    <div class="drawer text-center">
+      <input id="my-drawer" type="checkbox" class="drawer-toggle" />
+      <div class="drawer-content flex flex-col items-center justify-center">
+        <label
+          for="my-drawer"
+          class="btn btn-outline btn-xs sm:btn-sm md:btn-md lg:btn-lg drawer-button"
+          >Watch other seasons</label
+        >
+      </div>
+      <div class="drawer-side">
+        <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"
+        ></label>
+        <ul class="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
+          {
+            [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+              .filter((elem) => elem !== Number(Astro.params.season))
+              .map((subElem) => (
+                <li>
+                  <a href={`/seasons/${subElem}`}>Season {subElem}</a>
+                </li>
+              ))
+          }
+        </ul>
+      </div>
+    </div>
+  </section>
+</Layout>

@@ -1,12 +1,16 @@
 ---
+import { Image } from 'astro:assets';
 import { ViewTransitions } from 'astro:transitions';
+import '@fontsource/merriweather';
+
+import headerImage from '../assets/img/header.png';
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<meta
@@ -16,7 +20,26 @@ import { ViewTransitions } from 'astro:transitions';
 		<title>Doctor Who</title>
 		<ViewTransitions />
 	</head>
-	<body>
+	<body class="font-serif">
+		<header>
+			<div class="bg-white border-b border-gray-100">
+				<div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+					<div class="flex items-center justify-between h-16 lg:h-[72px]">
+						<div class="flex items-center flex-shrink-0 ml-4 lg:ml-0">
+							<a href="/">
+								<span class="sr-only">Doctor Who</span>
+								<Image
+									class="w-auto h-8"
+									src={headerImage}
+									alt="Doctor Who logo, designed at https://excalidraw.com/"
+								/>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		
 		<slot />
 	</body>
 </html>
