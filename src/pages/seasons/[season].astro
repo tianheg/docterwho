@@ -91,11 +91,10 @@ const { episodes } = Astro.props;
                 </p>
                 <p class="text-gray-600">
                   <strong>Location:</strong>{' '}
-                  {episode.location.length > 5
+                  {episode.location.includes('Christmas') ||
+                  episode.location.includes('special')
                     ? episode.location
-                    : episode.location.length == 5
-                      ? episode.location.slice(-3)
-                      : episode.location.slice(-2)}
+                    : `E${episode.location.split('E')[1]}`}
                 </p>
                 <p class="text-gray-600">
                   <strong>First Air:</strong> {episode.air_date}
