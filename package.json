@@ -12,9 +12,11 @@
     "@astrojs/check": "^0.7.0",
     "@astrojs/tailwind": "^5.1.0",
     "@fontsource/merriweather": "^5.0.13",
-    "astro": "^4.8.6",
-    "daisyui": "^4.11.1",
-    "tailwindcss": "^3.4.3",
+    "astro": "^4.10.2"    
+  },
+  "devDependencies": {
+    "daisyui": "^4.12.2",
+    "tailwindcss": "^3.4.4",
     "typescript": "^5.4.5"
   }
 }

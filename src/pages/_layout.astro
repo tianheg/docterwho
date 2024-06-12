@@ -1,6 +1,5 @@
 ---
 import { Image } from 'astro:assets';
-import { ViewTransitions } from 'astro:transitions';
 import '@fontsource/merriweather';
 
 import headerImage from '../assets/img/header.png';
@@ -18,7 +17,11 @@ import headerImage from '../assets/img/header.png';
 			content="Dive into the universe of Doctor Who, the iconic British sci-fi series. Discover the history, characters, storylines, and behind-the-scenes of this beloved show."
 		/>
 		<title>Doctor Who</title>
-		<ViewTransitions />
+		<style>
+			@view-transition {
+				navigation: auto;
+			}
+		</style>
 	</head>
 	<body class="font-serif">
 		<header>
